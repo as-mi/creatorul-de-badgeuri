@@ -13,10 +13,6 @@ Script Python făcut pentru completarea automată a badgeurilor de Teambuilding.
 <img src="https://user-images.githubusercontent.com/61749814/132041715-9009c6ad-cc3f-4005-805f-f220c0b1530d.gif" width="550" height="300"/>
 
 ### Cum se folosește?
-#### :point_right: Daca nu vrei alte schimbari în cod
-Downloadează tot ce se află în folderul ```Project``` și execută ```main.py```.
-
-#### :point_right: Dacă ai nevoie de schimbări în cod
 Introduce în GitBash comanda: ```git clone https://github.com/as-mi/Creatorul-de-badgeuri.git```.
 
 ### Specificații (dacă nu vrei să modifici codul):
